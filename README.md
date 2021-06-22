@@ -4,3 +4,5 @@
 > LICENSE: MIT
 
 ![](https://raw.githubusercontent.com/RedoC-github/Swift-For-Everyone/main/image.png)
+
+> P.S. I met **Tim Cook(CEO of )** with this work :)
